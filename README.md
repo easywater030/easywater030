@@ -17,7 +17,7 @@
 ### 20223784 이지수
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmiraeteam4&show_icons=true&theme=radical)
 
 
 
